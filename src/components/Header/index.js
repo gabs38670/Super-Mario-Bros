@@ -1,4 +1,3 @@
-import './index.css';
 import styled from 'styled-components';
 import Logo from '../Logo'
 
@@ -9,6 +8,9 @@ const HeaderContainer = styled.header`
  background-image: linear-gradient(to bottom, #511f2a, #762134, #9b203b, #c21b3f, #e91341);
  border-radius: 5px;
  background-size: cover;
+ position:fixed;
+ width: 100vw;
+ top:0;
 
 `
 

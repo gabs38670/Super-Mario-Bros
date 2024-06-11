@@ -7,9 +7,10 @@ import imagem2 from '../../img/nes-super-mario-bros-1-alternatives-cover-c.jpg'
 const MainContainer = styled.main`
     display: flex;
     justify-content: center;
-    margin-top: 1rem;
     box-shadow: 0px 19px 15px -3px rgba(0,0,0,0.1);
     border-radius: 5px;
+    margin-top:20rem;
+    height: 800px;
 `
 
 const MainImagem = styled.img`

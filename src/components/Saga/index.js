@@ -9,6 +9,7 @@ import capa6 from '../../img/Super_Mario_Odyssey_Capa.png';
 
 const SagaSection = styled.section`
     text-align: center;
+    box-shadow: 0px 19px 15px -3px rgba(0,0,0,0.1);
 
 `
 const DivImg = styled.div`

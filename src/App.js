@@ -4,6 +4,7 @@ import Main from './components/Historia';
 import ContainerPersonagens from './components/Personagens';
 import AnimacaoGaleria from './components/Galeria';
 import Franquia from './components/Saga';
+import Final from './components/rodape';
 
 
 
@@ -20,6 +21,7 @@ function App() {
         <ContainerPersonagens></ContainerPersonagens>
         <AnimacaoGaleria></AnimacaoGaleria>
         <Franquia></Franquia>
+        <Final></Final>
     </AppContainer>
   );
 }
